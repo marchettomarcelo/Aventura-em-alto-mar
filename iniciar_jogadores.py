@@ -13,6 +13,9 @@ def iniciar_jogadores():
         try:
             n_jogadores =  int(n_jogadores)
             
+            if n_jogadores <= 0:
+                raise 
+            
             break
 
         except:
