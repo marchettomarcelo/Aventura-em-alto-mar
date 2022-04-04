@@ -35,7 +35,7 @@ while True:
     
     print('\u001b[1m')
     print("")
-    print("INICIANDO O JOGO:")
+    print("O JOGO ESTÁ SENDO INICIALIZADO:")
     print("")
     loadingfn()
 
